@@ -9,6 +9,7 @@ import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.Region;
 import javafx.stage.Stage;
+
 import javafx.stage.StageStyle;
 
 import java.io.IOException;
@@ -21,7 +22,6 @@ public class HelloApplication extends Application {
         stage.setTitle("Roster Manager App");
         stage.setScene(scene);
         stage.show();
-
 
     }
 
